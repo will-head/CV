@@ -34,7 +34,7 @@
 
 I'm a web developer with commercial experience, having worked in technology for my whole career: creating it for deployment in a live environment, writing about it for magazines and websites, and explaining it in videos that have been watched over 25 million times.
 
-I've run my own company for many years, so I can to manage projects from inception to completion; working autonomously when required to assembling and managing a team, to successfully deliver large projects on time and on budget.
+I've run my own company for many years, so I can manage projects from inception to completion; working autonomously when required to assembling and managing a team, to successfully deliver large projects on time and on budget.
 
 In addition to project management I was responsible for delivering all technical projects for the company.
 
@@ -175,7 +175,7 @@ I also enjoy sharing new skills and techniques (when asked...) to help others le
 -	Skills: idea generation, research and development, production, resourcing, working with external creators, editing, client management, measurement and analytics
 
 ### Creator in Residence - Tick Done  <sub><sup>01/2019 – 07/2019</sub></sup>
--	Working with a startup micro-video platform to empower a billion people with a million new skills.
+-	Working with a startup micro-video platform to empower a billion people with a million new skills
 - Researching subject areas suitable for the online learning platform
 -	Scripting, filming and editing educational content
 -	Working with the community lead to devise content to engage the community
