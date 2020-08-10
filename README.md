@@ -1,4 +1,5 @@
 <h1 align="center">Will Head</h1>
+<div align="center">[email] | [mobile]</div>
 <div align="center">
 <a href="https://twitter.com/willhead">
   <img src="./images/twitter.png"
@@ -22,14 +23,16 @@
     style="margin: 10px; border-radius: 10%;" />
 </a>
 </div>
-<div align="center">  
-
-[Projects](#projects) |
-[Skills](#skills) |
-[Education](#education) |
-[Experience](#experience) |
-[Interests](#interests)
-
+<div align="center">
+<a href="https://twitter.com/willhead">
+<sup>twitter.com/willhead</sup>
+</a> <sup>|</sup>
+<a href="https://sourcerer.io/will-head">
+<sup>sourcerer.io/will-head</sup>
+</a> <sup>|</sup>
+<a href="https://www.linkedin.com/in/willhead">
+<sup>linkedin.com/in/willhead</sup>
+</a>
 </div>
 
 I'm a web developer with commercial experience, having worked in technology for my whole career: creating it for deployment in a live environment, writing about it for magazines and websites, and explaining it in videos that have been watched over 25 million times.
@@ -62,28 +65,20 @@ http://chronomy.net/view/18dc1213-07f2-4b43-9c4f-c254d71796bf
 
 Playlist URLs are deliberately long to avoid accidental discovery of other users' playlists, since different people will have different standards of what they consider suitable.
 
-The backend repository can be found here:  
-[https://github.com/will-head/chronomy-api](https://github.com/will-head/chronomy-api)
+The backend repository can be found here: [https://github.com/will-head/chronomy-api](https://github.com/will-head/chronomy-api)
 
-The frontend repository can be found here:  
-[https://github.com/will-head/chronomy-web](https://github.com/will-head/chronomy-web)
+The frontend repository can be found here: [https://github.com/will-head/chronomy-web](https://github.com/will-head/chronomy-web)
 
-To see the app in action, click the video below:  
-[![Chronomy Demo](./images/chromony-demo.jpg)](https://vimeo.com/fixationvideo/review/435076687/a701c1fcbe)
+To see the app in action, click the video link below:  
+[https://vimeo.com/fixationvideo/review/435076687/a701c1fcbe](https://vimeo.com/fixationvideo/review/435076687/a701c1fcbe)
 
 ### Video for Events website
 
-![Video for Events website](./images/vfe-home.jpg)
-
 [Video for Events](https://videoforevents.co.uk/) is a single page website running on Wordpress with a heavily customised theme.
 
-It's fully responsive, so suitable for both desktop and mobile visitors and adheres to modern web standards.
+It's fully responsive, so suitable for both desktop and mobile visitors and adheres to modern web standards. In order to ensure fast load times, it employs intelligent caching and is served via [Cloudflare's](https://www.cloudflare.com/) global CDN.  It includes a web application firewall to protect against malware attacks.  
 
-In order to ensure fast load times, it employs intelligent caching and is served via [Cloudflare's](https://www.cloudflare.com/) global CDN.
-
-It includes a web application firewall to protect against malware attacks.  
-
-![Video for Events responsive view](./images/vfe-responsive.jpg)
+[https://videoforevents.co.uk/](https://videoforevents.co.uk/)
 
 ### Personal Travel Planner
 
@@ -95,8 +90,8 @@ We moved to a location that was served by two different bus routes and a train s
 
 I then re-purposed a [Slimp3](http://wiki.slimdevices.com/index.php/SLIMP3) MP3 player with a wonderful VFD screen that could display RSS feeds and hacked it to display a rolling personal timetable. I also had to implement caching to ensure I didn’t exhaust the daily limit of API calls you’re allowed on a free account.
 
-To see a demo of my Personal Travel Planner, click the video below:  
-[![Personal Travel Planner Demo](./images/personal-travel-planner.jpg)](https://vimeo.com/fixationvideo/review/388454390/dbecd29d99)
+To see a demo of my Personal Travel Planner, click the video link below:  
+[https://vimeo.com/fixationvideo/review/388454390/dbecd29d99](https://vimeo.com/fixationvideo/review/388454390/dbecd29d99)
 
 ## Skills
 
@@ -130,7 +125,7 @@ I love learning new skills, and if I don't know how to do something I see it as 
 I embrace self-led learning and am constantly looking for new ways to enhance my skills and abilities, whether it's improving existing workflows to increase efficiency, mastering new skills to expand my creative output or learning new programming languages.
 
 I also enjoy sharing new skills and techniques (when asked...) to help others learn and develop.
-
+<div style="page-break-after: always;"></div>
 ## Education
 
 ### Makers Academy
