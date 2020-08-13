@@ -26,15 +26,15 @@
 
 [Skills](#skills) |
 [Projects](#projects) |
-[Education](#education) |
 [Experience](#experience) |
-[Interests](#interests)
+[Education](#education)
 
 </div>
 
-I'm a web developer with commercial experience, having worked in technology for my whole career: creating it to solve real-world business problems, writing about it for magazines and websites, and explaining it in videos that have been watched over 25 million times.
+I'm a web developer with experience creating and maintaining websites for my own company. I have supplemented this experience by attending a web developer bootcamp at Makers Academy, in order to learn how to apply my skills to a professional software team environment and refresh my Computer Science degree.
 
-I've run my own company for many years, so I can manage projects from inception to completion; working autonomously when required to assembling and managing a team, to successfully deliver large projects on time and on budget. I am responsible for delivering all technical projects for the company.
+In addition to my technical skills, I bring a wealth of experience of project management, from running my own company, and I’m an accomplished technical writer, having written for over thirty international technology publications as a freelance journalist.
+
 
 ## Skills
 
@@ -69,9 +69,31 @@ I love learning new skills, and if I don't know how to do something I see it as 
 
 Further details can be found on the [project page](./pages/projects.md)
 
+
+## Experience
+
+### Founder – Fixation Video  <sub><sup>(02/2009 – Present)</sub></sup>
+- Built websites on Wordpress, heavily customised using PHP, HTML and CSS
+-	Maintained staging and release workflow to ensure uptime
+-	Implemented caching and Cloudflare optimisation to enhance SEO performance
+-	Ensured sites are responsive, fast and mobile friendly
+-	Created custom Bash scripts to automate video production tasks
+-	Researched and understood complex technologies to create accurate video content of clients’ products
+
+### Freelance Technology Journalist  <sub><sup>07/2006 – 02/2009</sub></sup>
+-	Technical writing for over thirty international publications
+-	Explained complex topics in an understandable and engaging way
+-	Wrote articles on PHP, MySQL, HTML, CSS, WAP, Apache, Linux
+
+### Group Online Editor – IDG Communications  <sub><sup>05/2000 – 07/2006</sub></sup>
+-	Managed all of IDG's consumer websites: PC Advisor, Macworld and DigitalArts
+-	Project management of website relaunches
+-	Involved in designing and iterating CMS backend and frontend look and feel
+-	Previous roles: Deputy Editor, Reviews Editor, Senior Reviews Writer
+
 ## Education
 
-### Makers Academy
+### Makers Academy - Web Developer Bootcamp <sub><sup>03/2020 - 07/2020</sub></sup>
 
 - Web Developer Bootcamp
 - OOP, TDD, MVC, DDD
@@ -82,70 +104,19 @@ Further details can be found on the [project page](./pages/projects.md)
 - CI/CD, Travis
 - Git, GitHub
 
-### Warwick University
+### Warwick University - Computer and Business Studies BSc <sub><sup>09/1995 - 06/1999</sub></sup>
 
-- Computer and Business Studies BSc
 - Third year project: Visual Basic Forms for the PalmPilot  
   - Automatic conversion of Visual Basic forms into PalmPilot executables
-- Courses include: Software Engineering, Database Design, Logic, Object Oriented Programming, History of Computing, Marketing Communications and PR
+- Courses include: Software Engineering, Database Design, Logic, Object Oriented Programming, History of Computing
 
 ### Other Training
 
-- Design and Launch an Online Education Course  
-- SEO for SEO Beginners  
-- Sandler Sales Training  
-- Apple: Final Cut Journalist Course  
-- Adobe: Mastering Premiere for Journalists  
-- Total Training: Premiere Pro & After Effects  
-- The Editor as People Manager Course  
-- Rewriting and Subbing Specialist Copy Course  
-- Features Writing Course  
-- Libel Training Course  
-
-## Experience
-
-### Founder – Fixation Video  <sub><sup>(02/2009 – Present)</sub></sup>
--	Fixation Video specialises in telling stories through editorial video
--	Major international clients: Sony, Nikon, Wimbledon, WIRED, Bloomberg, Philips, Samsung, Glenfiddich, Three, Vodafone, MediaTek, ASUS and Tesco Mobile
--	Content for YouTube, Facebook, podcasts, Vine, Twitter, Instagram
-- 25 million total video views to date
-- Fully responsible for building and maintaining websites in PHP
-- Workflow scripts to automate production and delivery of content
--	Full project execution, from concept and development to production and delivery
--	Skills: idea generation, research and development, production, resourcing, working with external creators, editing, client management, measurement and analytics
-
-### Creator in Residence - Tick Done  <sub><sup>01/2019 – 07/2019</sub></sup>
--	Working with a startup micro-video platform to empower a billion people with a million new skills
-- Researching subject areas suitable for the online learning platform
--	Scripting, filming and editing educational content
--	Working with the community lead to devise content to engage the community
--	Inspiring brands to embrace the platform
-
-### Freelance Technology Journalist  <sub><sup>07/2006 – 02/2009</sub></sup>
--	Working for both online and print publications covering written, audio & video pieces
--	Titles include: The Guardian, T3, The Register, CNET, Computer Active, Shiny Media, MacUser, Computer Shopper, PCW, VNUnet and Web User
--	Video coverage for The Register has over 2.8 million views
--	Work includes: news, reviews, video reports, features, podcasts and blogs
-
-### Group Online Editor – IDG Communications  <sub><sup>01/2006 – 07/2006</sub></sup>
--	Managing all of IDG's consumer websites: PC Advisor, Macworld and DigitalArts
--	Project managing website relaunches
--	Ensuring community features were being used to best advantage
--	Regular competitor monitoring and analysis
--	Researching and preparing briefs for new launches
-
-### Deputy Editor – PC Advisor magazine  <sub><sup>09/2005 – 01/2006</sub></sup>
--	Managing all editorial staff and a team of freelance writers
--	Ensuring the magazine was up to date, relevant to readers, accurate, entertaining and written in a plain English style
--	Fully responsible for the PC Advisor website (www.pcadvsior.co.uk)
--	Oversaw a major redesign of the PC Advisor website covering design, function, content and backend
--	Writing a regular monthly column about the internet plus features, news, reviews and blogs
-
-### Reviews Editor – PC Advisor magazine  <sub><sup>05/2002 – 09/2005</sub></sup>
--	Responsible for commissioning and editing the reviews and top ten chart sections, managing a team of internal and freelance writers
--	Introduced a new section to add authority, character and humour
--	Oversaw a major redesign of the reviews section covering style, presentation, work practice and staff deployment
-
-## Interests
-
-Multimedia projects including video editing, cinemagraphs, podcasts, music creation, web design, literature and DJing.
+-	Codecademy Learn Ruby
+-	PluralSight Testing Ruby Applications with RSpec
+-	LinkedIn Learnining Ruby: Testing with RSpec
+-	Design and Launch an Online Education Course
+-	SEO for SEO Beginners
+-	The Editor as People Manager Course
+-	Rewriting and Subbing Specialist Copy Course
+-	Features Writing Course
