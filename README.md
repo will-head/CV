@@ -114,7 +114,7 @@ Further details can be found on the [project page](./pages/projects.md)
 
 -	Codecademy Learn Ruby
 -	PluralSight Testing Ruby Applications with RSpec
--	LinkedIn Learnining Ruby: Testing with RSpec
+-	LinkedIn Learning Ruby: Testing with RSpec
 -	Design and Launch an Online Education Course
 -	SEO for SEO Beginners
 -	The Editor as People Manager Course
