@@ -24,26 +24,34 @@
 </div>
 <div align="center">  
 
-[Skills](#skills) |
 [Projects](#projects) |
 [Experience](#experience) |
 [Education](#education)
 
 </div>
 
-I'm a web developer with experience creating and maintaining websites for my own company. I have supplemented this experience by attending a web developer bootcamp at Makers Academy, in order to learn how to apply my skills to a professional software team environment and refresh my Computer Science degree.
+I'm a web developer with experience creating and maintaining websites for my own company. I supplemented this experience by attending a web developer bootcamp at Makers Academy, learning Test Driven Development, Agile Project Management and Continuous Integration to apply my skills to a professional software team environment and refresh my Computer Science degree.
 
-In addition to my technical skills, I bring a wealth of experience of project management, from running my own company, and I’m an accomplished technical writer, having written for over thirty international technology publications as a freelance journalist.
-
-
-## Skills
+In addition to my technical skills, I bring a wealth of project management experience, a growth mindset and I’m an accomplished technical writer.
 
 ### Key Skills
-- Languages: Ruby, Javascript, Java, PHP, C++, HTML, CSS
+
+- Languages: Ruby, Javascript, C#, Java, PHP, C++, HTML, CSS
 - Frameworks: Rails, Sinatra, React
 - Datastores: MySQL, PostgreSQL
-- Testing: RSpec, Capybara, Jest, Jasmine, Cypress
-- Tools: Git, Travis, RuboCop, ESLint, Bash
+- Testing: RSpec, Capybara, Jest, Jasmine, Cypress, SpecFlow
+- Tools: Git, Travis, RuboCop, ESLint, StyleCop, Bash
+
+
+## Projects
+
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Technologies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Demo                                                                 |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| Chronomy                                                                        | Team project to create a curated TikTok web app                                                                                                                                                                                                                                                                                     | Backend: Rails, RSpec, Heroku<br>Frontend: React, Jest, Enzyme, Surge                                                                                                                                                                                                          | [Video](https://vimeo.com/fixationvideo/review/435076687/a701c1fcbe) |
+| Video for Events                                                                | Fully responsive, single page website running on Wordpress with a heavily customised theme                                                                                                                                                                                                                                          | Wordpress, PHP, HTML, CSS, Cloudflare                                                                                                                                                                                                                                          | [Live](https://videoforevents.co.uk/)                                |
+| Personal Travel Planner                                                         | Personal planner to calculate whether you should get the bus or train, based on live travel data                                                                                                                                                                                                                                    | PHP, RSS, Apache, [Transport API](https://www.transportapi.com/)                                                                                                                                                                                                               | [Video](https://vimeo.com/fixationvideo/review/388454390/dbecd29d99) |
+
+Further details can be found on the [project page](./pages/projects.md)
 
 ### Soft Skills
 
@@ -58,17 +66,6 @@ I've written for over thirty international publications, on topics as diverse as
 #### Growth Mindset
 
 I love learning new skills, and if I don't know how to do something I see it as an opportunity to learn. I embrace self-led learning and am constantly looking for new ways to enhance my skills and abilities. I enjoy sharing new skills and techniques (when asked...) to help others learn and develop.
-
-## Projects
-
-| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Technologies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Demo                                                                 |
-| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| Chronomy                                                                        | Team project to create a curated TikTok web app                                                                                                                                                                                                                                                                                     | Backend: Rails, RSpec, Heroku<br>Frontend: React, Jest, Enzyme, Surge                                                                                                                                                                                                          | [Video](https://vimeo.com/fixationvideo/review/435076687/a701c1fcbe) |
-| Video for Events                                                                | Fully responsive, single page website running on Wordpress with a heavily customised theme                                                                                                                                                                                                                                          | Wordpress, PHP, HTML, CSS, Cloudflare                                                                                                                                                                                                                                          | [Live](https://videoforevents.co.uk/)                                |
-| Personal Travel Planner                                                         | Personal planner to calculate whether you should get the bus or train, based on live travel data                                                                                                                                                                                                                                    | PHP, RSS, Apache, [Transport API](https://www.transportapi.com/)                                                                                                                                                                                                               | [Video](https://vimeo.com/fixationvideo/review/388454390/dbecd29d99) |
-
-Further details can be found on the [project page](./pages/projects.md)
-
 
 ## Experience
 
@@ -113,6 +110,7 @@ Further details can be found on the [project page](./pages/projects.md)
 ### Other Training
 
 -	Codecademy Learn Ruby
+- Codecademy Learn C#
 -	PluralSight Testing Ruby Applications with RSpec
 -	LinkedIn Learning Ruby: Testing with RSpec
 -	Design and Launch an Online Education Course
@@ -120,3 +118,8 @@ Further details can be found on the [project page](./pages/projects.md)
 -	The Editor as People Manager Course
 -	Rewriting and Subbing Specialist Copy Course
 -	Features Writing Course
+
+## Interests
+
+- Podcast creation – my tech podcast has been downloaded over 100,000 times
+- Video production – over one million views on YouTube for tech related content
